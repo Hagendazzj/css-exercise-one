@@ -27,13 +27,15 @@ h1 {
 
 h3 {
   font-size: 1.3em;
+    margin: 5em;
 }
 
 .element {
-
   height: 100px;
   margin 10px 0;
-    width: 100%;}
+    width: 100%;
+    background-color: skyblue;
+}
 
  .last-three {
       background-color:green;
